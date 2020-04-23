@@ -7,6 +7,8 @@ public class Question1
      * 
      * Hint: System.out.println(...)
      */
+    
+    //prints hello world!
     System.out.println("Hello World!");
     
   }
